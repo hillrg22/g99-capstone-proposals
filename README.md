@@ -39,4 +39,4 @@ This does not need to be an exhaustive list. We want you to identify major techn
 ## Wireframes
 
 Inlcude some wireframes of your project.
-![wireframe](wireframe_Fitfinder.jpg)
+![wireframe](g99-capstone-proposals/wireframe_Fitfinder.JPG)
