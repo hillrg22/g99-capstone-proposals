@@ -33,7 +33,7 @@ This does not need to be an exhaustive list. We want you to identify major techn
 
 ## ERD - Entity Relationship Diagram
 
-[FitFinder ERD](https://www.lucidchart.com/invitations/accept/d3eedc65-ab09-431a-8a8f-c04a58b03539)
+![FitFinder ERD](/FitFinder_ERD01042019.png)
 
 
 ## Wireframes
